@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -376,6 +376,10 @@
 		F981292306270C0142B10F64 /* SupabaseBackend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupabaseBackend.swift; sourceTree = "<group>"; };
 		FF1CE6D2890B20C483A975F0 /* onAppearAndChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onAppearAndChange.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		B88130962D4FA787007F0BA8 /* Home */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Home; sourceTree = "<group>"; };
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		166A14CA41A73241B5A8D673 /* Frameworks */ = {
@@ -941,6 +945,7 @@
 		F313C2C645A217A387634602 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				B88130962D4FA787007F0BA8 /* Home */,
 				FA578ACDEB2ED2E994924706 /* Developer */,
 				43CD578F5270E6F691A3AC80 /* OneTimeViews */,
 				D1A7922433AF8A10C770E90A /* Settings */,
@@ -1154,6 +1159,9 @@
 				D43F6F8C73A8FFCB15EEFB88 /* PBXTargetDependency */,
 				7A721484428F49AD6856E4DE /* PBXTargetDependency */,
 				B0C6CFF56420799310CF7F3D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				B88130962D4FA787007F0BA8 /* Home */,
 			);
 			name = HyperTrak;
 			packageProductDependencies = (

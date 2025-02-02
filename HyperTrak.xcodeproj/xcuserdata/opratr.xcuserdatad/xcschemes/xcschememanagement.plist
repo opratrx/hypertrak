@@ -7,51 +7,49 @@
 		<key>AnalyticsKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<true />
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
 		<key>HyperTrak.xcscheme_^#shared#^_</key>
 		<dict>
-			<key>isShown</key>
-			<true/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
 		<key>InAppPurchaseKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<true />
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
 		<key>NotifKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<true />
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
 		<key>OneSignalNotificationServiceExtension.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<true />
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>7</integer>
 		</dict>
 		<key>SharedKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<true />
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>5</integer>
 		</dict>
 		<key>SupabaseKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<true/>
+			<true />
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>6</integer>
 		</dict>
 	</dict>
 </dict>

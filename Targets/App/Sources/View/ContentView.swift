@@ -14,6 +14,10 @@ struct ContentView: View {
 
 	var body: some View {
 		TabView {
+            
+            Tab("", systemImage: "house") {
+                HomeView()
+            }
 
 			// Example view on how to access the Database.
 			Tab("", systemImage: "bolt") {
